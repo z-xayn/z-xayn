@@ -52,5 +52,65 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+
+
+### 👉 Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-088F8F?style=plastic&logo=arduino&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-a60e03?style=plastic&logo=raspberry-pi&logoColor=white"></a>
+</p>
+
+
+### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino%20IDE-088F8F?style=plastic&logo=arduino&logoColor=white" /></a>
+
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Parrot-OS-55fa23?style=plastic&&logo=parrot-os&logoColor=white" /></a>	  
+</p>
+
+<br/>
+	
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="z-xayn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=z-xayn&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-xayn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="z-xayn" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
     
-I'm Mohammed Zainul Abideen from India, currently pursuing Bachelor of Technology (B.Tech) in Electronics and Communication Engineering. I really enjoy working on projects beyond my domain which has helped me expolring various other technologies 
+
+		
+-----
+Credits: [z-xayn](https://github.com/z-xayn)
+
+Last Edited on: 27/07/2022
