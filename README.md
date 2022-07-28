@@ -81,7 +81,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Internet of Things" src="https://img.shields.io/badge/IoT-0078d7.svg?style=plastic&logo=iot&logoColor=white"></a>
+    <a href="#"><img alt="Internet of Things" src="https://img.shields.io/badge/Internet%20of%20Things-0078d7.svg?style=plastic&logo=iot&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-088F8F?style=plastic&logo=ml&logoColor=white"></a>
   &emsp;
